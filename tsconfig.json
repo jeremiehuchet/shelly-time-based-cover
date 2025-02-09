@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "outFile": "dist/shelly-time-based-cover.js",
+    "target": "ES5"
+  },
+  "include": ["src/**/*"]
+}
